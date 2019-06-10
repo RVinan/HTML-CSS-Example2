@@ -1,0 +1,96 @@
+body{
+    background-color: #fefefe;
+}
+#page{
+    width: 955px;
+    height: 750px;
+    /*border-style: solid;
+    border-color: red;
+    border-width: 2px;*/
+    margin: 0 auto;
+}
+.header{
+    width: 955px;
+    height: 100px;
+    margin: 0px 0px 0px 0px;
+	background-color: #fefefe;
+	background-image: url(../images/topBg.jpg);
+}
+.content{
+    height: 604px;
+	
+}
+.content2{
+    height: 213px;
+    margin: 0px 0px 0px 0px;
+	background-image: url(../images/contentBg.jpg);
+}
+.logo{
+    margin: 20px 0px 0px 6px;
+    padding: 0px 0px 0px 0px;
+    float: left;
+}
+.links{
+    margin: 9px 35px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    font-size: 14px;
+    float: right;
+}
+.links nav{
+    margin: 0px 0px 0px 0px;
+    padding: 5px 10px 0px 0px;
+    float: left;
+}
+.links nav a{
+    margin: 0px 4px 0px 5px;
+    padding: 0px 0px 0px 0px;
+}
+.barra{
+    color: magenta;    
+}
+.logoLinks{
+    margin: 0px -2px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    float: right;
+}
+.slogan{
+	position: absolute;
+    bottom: 486px;
+	left: 229px;
+}
+.links2{
+    margin: 20px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
+	float: right;
+}
+.links2 a{
+	margin: 0px 20px 0px 10px;
+    padding: 0px 40px 0px 30px;
+}
+.banner{
+	margin: -2px 0px 0px 0px;
+}
+
+.pagInicio{
+	margin: 9px -1px 0px 8px;
+ 
+}
+.footer{
+	color: #aeaeae;
+	/*text-align: center;*/
+	height: 46px;
+	background-color: #333;
+	background-image: url(../images/pag_inicio_zaroal_01_a_11.jpg);
+	position: relative;
+}
+
+.footer c{
+	position: absolute;
+	margin: 10px 0px 0px 331px;
+    padding: 0px 0px 0px 0px;
+}
+.footer c1{
+	position: absolute;
+	margin: 24px 0px 0px 260px;
+    padding: 0px 0px 0px 0px;
+}
